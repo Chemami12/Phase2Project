@@ -2,7 +2,7 @@
 
 
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-3/main/halfway-there.gif)
+!(https://www.brookings.edu/wp-content/uploads/2022/02/shutterstock_1656027838-1.png)
 
 
 ## Project Overview
