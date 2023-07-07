@@ -1,4 +1,4 @@
-#KING COUNTY HOUSE PRICE ANALYSIS
+KING COUNTY HOUSE PRICE ANALYSIS
 
 
 
@@ -32,7 +32,7 @@ Year built
 
 ### Data Cleaning
 
-The data needs to be cleaned before it can be used in the linear regression model. The cleaning steps that we followed were:
+The data needs to be cleaned before it can be used in the linear regression model. The cleaning steps followed were:
 
 Finding and Dropping Missing Data
 There was missing data in waterfront, view and year renovated columns that were then dropped.
@@ -92,7 +92,7 @@ From there, we aimed to increase our R-squared value by adding in more variables
 
 This project is aimed to develop a model to predict housing prices in King County based on various features such as square footage, number of bedrooms and bathrooms, grading and zipcode.
 
-Firstly, we performed exploratory data analysis (EDA) and found that the price of houses was positively correlated with the square footage and the grade of the house. We also discovered that the location of the house had a significant impact on the price.
+Firstly, exploratory data analysis (EDA) was performed and found that the price of houses was positively correlated with the square footage. The location of the house also had a significant impact on the price.
 
 Secondly, multiple linear regression models was used to predict the price of the house. The model included square footage, grade, bedrooms, bathrooms and zipcode as the predictors performed reasonably well, explaining about 56% of the variance in price.
 
