@@ -2,9 +2,6 @@
 
 
 
-![Alt Text] (https://www.brookings.edu/wp-content/uploads/2022/02/shutterstock_1656027838-1.png)
-
-
 ## Project Overview
 
 This project uses linear regression analysis to understand how certain variables impact housing prices in King County. Several models  will be genereted in order to create the most accurate coefficients and the highest R-squared value.
